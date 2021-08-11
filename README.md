@@ -3,6 +3,13 @@ CRM implementation in laravel with basic learning integration and some extras.
 
 <a href="arthurCRM.ddns.net">link to arthurCRM demo</a>
 
+=== PHP === 
+the app runs on laravel (php)
+the front end admin panel is primarily coded in VUEjs. source is in /resources/adminapp/js folder
+
+=== CSS ===
+
+i am using material UI 
 
 === troubleshooting ===
 
